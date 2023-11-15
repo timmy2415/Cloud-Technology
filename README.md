@@ -17,4 +17,4 @@ The new Chief Information Office (CIO) is frustrated with the decentralized natu
 - Connect to machine learning tools that can perform cursory exploratory data analysis, and create a machine learning model that can predict a company’s likelihood of bankruptcy in the next fiscal year.
 - MSBA is considering 10 companies for a new portfolio. Use the model to make predictions and determine each of the 10 companies’ likelihood of filing for bankruptcy."
 
-Presentation Link: https://youtu.be/DLM9gBxlo_g
+Click this link to watch the full presentation: https://youtu.be/DLM9gBxlo_g
